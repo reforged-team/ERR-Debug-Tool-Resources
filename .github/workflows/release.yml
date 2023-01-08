@@ -11,3 +11,8 @@ jobs:
         type: 'zip'
         filename: 'ERR-Debug-Tool-Resources.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig *.idea*'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "ERR-Debug-Tool-Resources.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
