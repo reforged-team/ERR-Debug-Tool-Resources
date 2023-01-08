@@ -1,18 +1,26 @@
-name: Create Archive
-on: [push]
+name: Releases
+
+on:
+  push:
+    tags:
+      - '*'
+
 jobs:
+
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@main
-      with:
-        type: 'zip'
-        filename: 'ERR-Debug-Tool-Resources.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig *.idea*'
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
-      with:
-        artifacts: "ERR-Debug-Tool-Resources.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - name: Archive Release
+        uses: thedoctor0/zip-release@main
+        with:
+          type: 'zip'
+          filename: 'ERR-Debug-Tool-Resources.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig *.idea*'
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: 'ERR-Debug-Tool-Resources.zip'
+          token: ${{ secrets.GITHUB_TOKEN }}
