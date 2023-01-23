@@ -4,6 +4,7 @@
 0x00000000 false Items/EldenRingReforged/Weapons.txt ERR: Weapons
 0x80000000 false Items/EldenRingReforged/Gems.txt ERR: Ashes of War
 0x10000000 false Items/EldenRingReforged/Armor.txt ERR: Armor
+0x20000000 false Items/EldenRingReforged/Talismans.txt ERR: Talismans
 0x40000000 false Items/EldenRingReforged/CrystalTears.txt ERR: Crystal Tears
 0x40000000 false Items/EldenRingReforged/Fortunes.txt ERR: Fortunes
 0x40000000 false Items/EldenRingReforged/Goods.txt ERR: Goods
