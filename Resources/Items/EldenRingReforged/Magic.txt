@@ -2,9 +2,12 @@
 4711 Stone Sling
 4722 Singularity
 4840 Volcanic Storm
+4850 Molten Armament
+4911 Briars of Guilt
 5002 Rancor
 6721 Golden Star
 6790 Javelin of Gold
 6942 Bolt of Gransax
 6972 Frozen Dragonbolt
 7231 Rotten Armament
+7250 Poison Bolt

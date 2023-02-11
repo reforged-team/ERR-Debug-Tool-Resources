@@ -18,3 +18,4 @@
 900258 Fortune of Haima
 900268 Fortune of the Crucible
 900278 Fortune of the Dynasts
+900288 Fortune of the Warmaster

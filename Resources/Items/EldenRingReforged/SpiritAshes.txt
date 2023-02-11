@@ -20,3 +20,14 @@
 265008 Blaidd the Half-Wolf +8
 265009 Blaidd the Half-Wolf +9
 265010 Blaidd the Half-Wolf +10
+266000 Latenna and Lobo
+266001 Latenna and Lobo +1
+266002 Latenna and Lobo +2
+266003 Latenna and Lobo +3
+266004 Latenna and Lobo +4
+266005 Latenna and Lobo +5
+266006 Latenna and Lobo +6
+266007 Latenna and Lobo +7
+266008 Latenna and Lobo +8
+266009 Latenna and Lobo +9
+266010 Latenna and Lobo +10
