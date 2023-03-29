@@ -9,6 +9,7 @@
 0x40000000 false Items/EldenRingReforged/CrystalTears.txt ERR: Crystal Tears
 0x40000000 false Items/EldenRingReforged/Fortunes.txt ERR: Fortunes
 0x40000000 false Items/EldenRingReforged/Goods.txt ERR: Goods
+0x40000000 false Items/EldenRingReforged/BindingRunes.txt ERR: Binding Runes
 0x40000000 false Items/EldenRingReforged/Magic.txt ERR: Magic
 0x40000000 false Items/EldenRingReforged/SpiritAshes.txt ERR: Spirit Ashes
 
