@@ -1,11 +1,13 @@
 4391 Glintblade Hail
-4711 Stone Sling
+4401 Glintstone Snowdrift [Generator]
+4481 Moonchill
+4711 Stone Sling [Generator]
 4722 Singularity
 4840 Volcanic Storm
 4850 Molten Armament
 4911 Briars of Guilt
-5002 Rancor
-6721 Golden Star
+5002 Rancor [Generator]
+6721 Golden Star [Generator]
 6790 Javelin of Gold
 6942 Bolt of Gransax
 6972 Frozen Dragonbolt
