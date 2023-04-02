@@ -1,1 +1,9 @@
 ﻿/.idea/
+Elden Ring Debug Tool.exe
+ERDebug.settings.json
+log.txt
+Resources/
+!Resources/ItemCategories.txt
+!Resources/Items/EldenRingReforged
+!Resources/Items/Magic.txt
+!Resources/Items/Weapons/Ammo.txt

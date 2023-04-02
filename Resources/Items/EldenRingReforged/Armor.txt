@@ -1,3 +1,5 @@
+51100 Kaiden Armor (Altered)
+52100 Kaiden Tunic
 131000 Spellblade's Pointed Hat (Altered)
 361000 Fire Prelate Helm (Altered)
 1011300 Snow Witch Skirt (Altered)
