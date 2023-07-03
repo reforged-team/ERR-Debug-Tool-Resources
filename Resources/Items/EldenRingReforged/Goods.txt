@@ -1,6 +1,16 @@
+815 Stormhoof Raisin
+816 Erdbark Raisin
+1761 Weighty Stone
+1762 Sanctified Stone
 8969 Whetblade Fragment
-8990 Starlight Token
-9424 Knowledge-Seeker's Cookbook [1]
+8981 Fated Whetblade
+22000 Starlight Token
+701000 Flame-Singed Palette
+702000 Glintstone Palette
+703000 Ill-Fated Palette
+704000 Divine Palette
+705000 Dreaming Palette
+706000 Stormswept Palette
 800010 Rune Piece
 800011 Runic Trace
 1000000 Codex of the All-Knowing
