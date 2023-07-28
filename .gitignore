@@ -2,8 +2,25 @@
 Elden Ring Debug Tool.exe
 ERDebug.settings.json
 log.txt
-Resources/
+PortableGit/*
+!PortableGit/READ THIS.txt
+!PortableGit/usr
+PortableGit/usr/*
+!PortableGit/usr/bin
+PortableGit/usr/bin/*
+!PortableGit/usr/bin/gdrive.exe
+!PortableGit/usr/bin/rsync.exe
+!PortableGit/usr/bin/msys-crypto-3.dll
+!PortableGit/usr/bin/msys-xxhash-0.dll
+!PortableGit/usr/bin/zip.exe
+!PortableGit/usr/bin/bzip2.dll
+
+Resources/*
 !Resources/ItemCategories.txt
-!Resources/Items/EldenRingReforged
+!Resources/Items
+Resources/Items/*
 !Resources/Items/Magic.txt
+!Resources/Items/Weapons
+Resources/Items/Weapons/*
 !Resources/Items/Weapons/Ammo.txt
+!Resources/Items/EldenRingReforged

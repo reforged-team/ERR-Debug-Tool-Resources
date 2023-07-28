@@ -1,33 +1,33 @@
-264000 Lazuli Sorcerer Ashes
-264001 Lazuli Sorcerer Ashes +1
-264002 Lazuli Sorcerer Ashes +2
-264003 Lazuli Sorcerer Ashes +3
-264004 Lazuli Sorcerer Ashes +4
-264005 Lazuli Sorcerer Ashes +5
-264006 Lazuli Sorcerer Ashes +6
-264007 Lazuli Sorcerer Ashes +7
-264008 Lazuli Sorcerer Ashes +8
-264009 Lazuli Sorcerer Ashes +9
-264010 Lazuli Sorcerer Ashes +10
-265000 Blaidd the Half-Wolf
-265001 Blaidd the Half-Wolf +1
-265002 Blaidd the Half-Wolf +2
-265003 Blaidd the Half-Wolf +3
-265004 Blaidd the Half-Wolf +4
-265005 Blaidd the Half-Wolf +5
-265006 Blaidd the Half-Wolf +6
-265007 Blaidd the Half-Wolf +7
-265008 Blaidd the Half-Wolf +8
-265009 Blaidd the Half-Wolf +9
-265010 Blaidd the Half-Wolf +10
-266000 Latenna and Lobo
-266001 Latenna and Lobo +1
-266002 Latenna and Lobo +2
-266003 Latenna and Lobo +3
-266004 Latenna and Lobo +4
-266005 Latenna and Lobo +5
-266006 Latenna and Lobo +6
-266007 Latenna and Lobo +7
-266008 Latenna and Lobo +8
-266009 Latenna and Lobo +9
-266010 Latenna and Lobo +10
+364000 Lazuli Sorcerer Ashes
+364002 Lazuli Sorcerer Ashes +1
+364004 Lazuli Sorcerer Ashes +2
+364006 Lazuli Sorcerer Ashes +3
+364008 Lazuli Sorcerer Ashes +4
+364010 Lazuli Sorcerer Ashes +5
+364012 Lazuli Sorcerer Ashes +6
+364014 Lazuli Sorcerer Ashes +7
+364016 Lazuli Sorcerer Ashes +8
+364018 Lazuli Sorcerer Ashes +9
+364020 Lazuli Sorcerer Ashes +10
+365000 Blaidd the Half-Wolf
+365002 Blaidd the Half-Wolf +1
+365004 Blaidd the Half-Wolf +2
+365006 Blaidd the Half-Wolf +3
+365008 Blaidd the Half-Wolf +4
+365010 Blaidd the Half-Wolf +5
+365012 Blaidd the Half-Wolf +6
+365014 Blaidd the Half-Wolf +7
+365016 Blaidd the Half-Wolf +8
+365018 Blaidd the Half-Wolf +9
+365020 Blaidd the Half-Wolf +10
+366000 Latenna and Lobo
+366002 Latenna and Lobo +1
+366004 Latenna and Lobo +2
+366006 Latenna and Lobo +3
+366008 Latenna and Lobo +4
+366010 Latenna and Lobo +5
+366012 Latenna and Lobo +6
+366014 Latenna and Lobo +7
+366016 Latenna and Lobo +8
+366018 Latenna and Lobo +9
+366020 Latenna and Lobo +10

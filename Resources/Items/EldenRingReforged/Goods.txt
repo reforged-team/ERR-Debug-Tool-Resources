@@ -2,6 +2,10 @@
 816 Erdbark Raisin
 1761 Weighty Stone
 1762 Sanctified Stone
+1770 Azula Throwing Chakram
+1771 Azula Lightning Chakram
+1780 Crystal Chakram
+1781 Putrid CrystalChakram
 8969 Whetblade Fragment
 8981 Fated Whetblade
 22000 Starlight Token

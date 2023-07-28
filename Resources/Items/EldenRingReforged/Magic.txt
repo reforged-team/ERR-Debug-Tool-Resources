@@ -1,6 +1,7 @@
 4391 Glintblade Hail
 4401 Glintstone Snowdrift [Generator]
 4481 Moonchill
+4530 Crystal Volley
 4711 Stone Sling [Generator]
 4722 Singularity
 4840 Volcanic Storm

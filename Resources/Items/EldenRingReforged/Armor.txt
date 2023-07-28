@@ -1,5 +1,9 @@
+41000 Iron Helmet (Altered)
 51100 Kaiden Armor (Altered)
 52100 Kaiden Tunic
 131000 Spellblade's Pointed Hat (Altered)
+241300 Blue Silver Mail Skirt (Altered)
+321300 Sanguine Noble Waistcloth (Altered)
 361000 Fire Prelate Helm (Altered)
+441000 Silver Pumpkin Helm
 1011300 Snow Witch Skirt (Altered)
