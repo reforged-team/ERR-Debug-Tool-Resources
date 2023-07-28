@@ -1,4 +1,3 @@
-ID Name
 300000 Black Knife Tiche
 300002 Black Knife Tiche +1
 300004 Black Knife Tiche +2

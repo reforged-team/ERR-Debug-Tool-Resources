@@ -31,7 +31,7 @@
 0x40000000 false Items/Goods/CrystalTears.txt Crystal Tears
 0x40000000 false Items/Goods/Flasks.txt Flasks
 0x40000000 false Items/EldenRingReforged/SpiritAshesVanilla.txt Ashes (ERR IDs)
-# 0x40000000 false Items/Goods/Ashes.txt Ashes (Vanilla IDs)
+//0x40000000 false Items/Goods/Ashes.txt Ashes (Vanilla IDs)
 0x40000000 false Items/Goods/NotesPaintings.txt Notes and Paintings
 0x40000000 false Items/Goods/Gestures.txt Gestures
 0x40000000 false Items/Goods/Cookbooks.txt Cookbooks
