@@ -31,3 +31,36 @@
 366016 Latenna and Lobo +8
 366018 Latenna and Lobo +9
 366020 Latenna and Lobo +10
+367000 Zamor Knight Lyedna
+367002 Zamor Knight Lyedna +1
+367004 Zamor Knight Lyedna +2
+367006 Zamor Knight Lyedna +3
+367008 Zamor Knight Lyedna +4
+367010 Zamor Knight Lyedna +5
+367012 Zamor Knight Lyedna +6
+367014 Zamor Knight Lyedna +7
+367016 Zamor Knight Lyedna +8
+367018 Zamor Knight Lyedna +9
+367020 Zamor Knight Lyedna +10
+368000 Starcaller Ashes
+368002 Starcaller Ashes +1
+368004 Starcaller Ashes +2
+368006 Starcaller Ashes +3
+368008 Starcaller Ashes +4
+368010 Starcaller Ashes +5
+368012 Starcaller Ashes +6
+368014 Starcaller Ashes +7
+368016 Starcaller Ashes +8
+368018 Starcaller Ashes +9
+368020 Starcaller Ashes +10
+369000 Glintstone Miner Ashes
+369002 Glintstone Miner Ashes +1
+369004 Glintstone Miner Ashes +2
+369006 Glintstone Miner Ashes +3
+369008 Glintstone Miner Ashes +4
+369010 Glintstone Miner Ashes +5
+369012 Glintstone Miner Ashes +6
+369014 Glintstone Miner Ashes +7
+369016 Glintstone Miner Ashes +8
+369018 Glintstone Miner Ashes +9
+369020 Glintstone Miner Ashes +10

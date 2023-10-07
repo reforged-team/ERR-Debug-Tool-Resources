@@ -1,4 +1,5 @@
 900000 Oracle's Effigy
+900001 Phantasmal Effigy
 900010 Oracle's Remedy
 900108 Fortune of the Barbarian
 900118 Fortune of the Rogue
