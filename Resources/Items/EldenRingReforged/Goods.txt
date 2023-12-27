@@ -20,6 +20,7 @@
 9394 Perfumer's Cookbook [6]
 9395 Perfumer's Cookbook [7]
 22000 Starlight Token
+299999 Spirit-Severing Blade
 701000 Flame-Singed Palette
 702000 Glintstone Palette
 703000 Ill-Fated Palette

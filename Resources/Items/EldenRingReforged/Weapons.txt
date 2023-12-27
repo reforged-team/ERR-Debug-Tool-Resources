@@ -2,10 +2,12 @@
 1170000 Nightmaiden's Edge
 2030000 Sun Realm Sword
 2100000 Puppet's Short Sword
+2120000 Broken Straight Sword
 7130000 Red Wolf's Fang
 7160000 Puppet's Scimitar
 8090000 Fury of Azash
 8110000 Makar's Ceremonial Cleaver
+10100000 Goldvine Branchstaff
 12030000 Pumpkin Head Sledgehammer
 14070000 Vulgar Militia Chain Sickle
 16100000 Disciple's Rotten Branch

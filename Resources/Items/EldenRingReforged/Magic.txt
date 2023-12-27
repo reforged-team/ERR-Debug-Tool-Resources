@@ -10,6 +10,7 @@
 4920 Briars of Penance
 5002 Rancor [Generator]
 5040 Creeping Rancor
+5050 Raving Rancor
 5200 Ancient Tracer
 6721 Golden Star [Generator]
 6790 Javelin of Gold
@@ -19,3 +20,4 @@
 7231 Rotten Armament
 7250 Poison Bolt
 7260 Scarlet Papillon
+7600 Grasp of Eochaid
