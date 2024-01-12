@@ -20,3 +20,4 @@
 900268 Fortune of the Crucible
 900278 Fortune of the Dynasts
 900288 Fortune of the Warmaster
+900298 Fortune of the Beasts
