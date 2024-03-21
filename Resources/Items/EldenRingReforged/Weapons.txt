@@ -16,4 +16,8 @@
 18120000 Puppet's Pig Sticker
 18170000 Starcaller Spire
 21050000 Nox Flowing Fist
+21140000 Fellthorn Clutches
 22040000 Crude Iron Claws
+23090000 Fellthorn Stake
+33290000 St. Trina's Staff
+33300000 Snow Witch's Staff

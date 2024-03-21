@@ -2,9 +2,12 @@
 51100 Kaiden Armor (Altered)
 52100 Kaiden Tunic
 131000 Spellblade's Pointed Hat (Altered)
-202100 Edgar armor
 241300 Blue Silver Mail Skirt (Altered)
 321300 Sanguine Noble Waistcloth (Altered)
 361000 Fire Prelate Helm (Altered)
 441000 Silver Pumpkin Helm
+743000 Beryl Hood
 1011300 Snow Witch Skirt (Altered)
+701300 (WIP) Brave Skirt and Boots
+772100 (WIP) Malenia's Gown
+773100 (WIP) Malenia's Dress
