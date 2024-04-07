@@ -10,7 +10,7 @@
 900168 Fortune of the Heretic
 900178 Fortune of the Sorcerer
 900188 Fortune of the Sentinel
-900198 Fortune of the Daner
+900198 Fortune of the Dancer
 900208 Fortune of the Latenna
 900218 Fortune of the Houses
 900228 Fortune of the Spellsword

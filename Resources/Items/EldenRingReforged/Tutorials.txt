@@ -1,4 +1,5 @@
-﻿9176 About Torrent and Status Effects
+﻿9175 About Supply Pledges
+9176 About Torrent and Status Effects
 9177 About the Codex of the All-Knowing
 9178 Gilded Cave of Knowledge: Stance-Breaking
 9180 Gilded Cave of Knowledge: Rune Pieces
@@ -17,6 +18,5 @@
 9193 About Sealed Ruins
 9194 Gilded Cave of Knowledge: About Crafting
 9196 Gilded Cave of Knowledge: About Deflects
-9197 About the Gilded Cave of Knowledge
 9198 About Clouded Mirror Stand
 9199 About Hint Messages

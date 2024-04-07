@@ -1,0 +1,29 @@
+﻿8969 Whetblade Fragment
+8981 Fated Whetblade
+88921 Nomadic Merchant's Supply Pledge [1]
+88922 Nomadic Merchant's Supply Pledge [2]
+88923 Nomadic Merchant's Supply Pledge [3]
+88924 Nomadic Merchant's Supply Pledge [4]
+88925 Nomadic Merchant's Supply Pledge [5]
+88928 Nomadic Merchant's Supply Pledge [6]
+88930 Nomadic Merchant's Supply Pledge [7]
+88931 Nomadic Merchant's Supply Pledge [8]
+88932 Nomadic Merchant's Supply Pledge [9]
+88933 Nomadic Merchant's Supply Pledge [10]
+88926 Isolated Merchant's Supply Pledge [1]
+88927 Isolated Merchant's Supply Pledge [2]
+88935 Isolated Merchant's Supply Pledge [3]
+88929 Hermit Merchant's Supply Pledge [1]
+88936 Hermit Merchant's Supply Pledge [2]
+88938 Hermit Merchant's Supply Pledge [3]
+88937 Abandoned Merchant's Supply Pledge [1]
+88934 Abandoned Merchant's Supply Pledge [2]
+88939 Imprisoned Merchant's Supply Pledge
+701000 Flame-Singed Palette
+702000 Glintstone Palette
+703000 Ill-Fated Palette
+704000 Divine Palette
+705000 Dreaming Palette
+706000 Stormswept Palette
+800010 Rune Piece
+800011 Runic Trace

@@ -1,2 +1,3 @@
 ﻿50200000 Arrow - Lightning
+50320000 Arrow - Blightbone
 50340000 Arrow - Frenzybone

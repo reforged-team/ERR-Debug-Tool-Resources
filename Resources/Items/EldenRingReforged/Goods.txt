@@ -2,15 +2,15 @@
 690 Orange Paint Pot
 815 Stormhoof Raisin
 816 Erdbark Raisin
+1220 Revitalizing Cured Meat
+1350 Revitalizing White Cured Meat
 1761 Weighty Stone
 1762 Sanctified Stone
 1770 Azula Throwing Chakram
 1771 Azula Lightning Chakram
 1780 Crystal Chakram
 1781 Putrid Crystal Chakram
-2071 Rainbow Lantern
-2072 Rainbow Lantern
-2073 Rainbow Lantern
+1990 Withered Twig
 3530 Galvanizing Elixir
 3540 Stardust Elixir
 3560 Concealing Aromatic
@@ -19,21 +19,9 @@
 3600 Rupturing Aromatic
 3620 Feverish Aromatic
 3630 Afflicting Aromatic
-8969 Whetblade Fragment
-8981 Fated Whetblade
-9393 Perfumer's Cookbook [5]
-9394 Perfumer's Cookbook [6]
-9395 Perfumer's Cookbook [7]
+20781 Magnetic Ore
 22000 Starlight Token
 299999 Spirit-Severing Blade
-701000 Flame-Singed Palette
-702000 Glintstone Palette
-703000 Ill-Fated Palette
-704000 Divine Palette
-705000 Dreaming Palette
-706000 Stormswept Palette
-800010 Rune Piece
-800011 Runic Trace
-1200000 Debug Box
 1000000 Codex of the All-Knowing
 1000010 Sign of the All-Knowing
+1200000 Debug Box

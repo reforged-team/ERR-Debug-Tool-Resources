@@ -19,5 +19,3 @@
 21140000 Fellthorn Clutches
 22040000 Crude Iron Claws
 23090000 Fellthorn Stake
-33290000 St. Trina's Staff
-33300000 Snow Witch's Staff
