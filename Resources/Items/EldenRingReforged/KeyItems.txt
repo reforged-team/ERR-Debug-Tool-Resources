@@ -27,3 +27,5 @@
 706000 Stormswept Palette
 800010 Rune Piece
 800011 Runic Trace
+850010 Ember Piece
+850011 Ember Trace

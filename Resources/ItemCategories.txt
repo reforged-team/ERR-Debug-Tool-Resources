@@ -11,6 +11,7 @@
 0x40000000 false Items/EldenRingReforged/Goods.txt ERR: Goods
 0x40000000 false Items/EldenRingReforged/KeyItems.txt ERR: Key Items
 0x40000000 false Items/EldenRingReforged/BindingRunes.txt ERR: Binding Runes
+0x40000000 false Items/EldenRingReforged/ShadowCurios.txt ERR: Shadowed Curios
 0x40000000 false Items/EldenRingReforged/Magic.txt ERR: Magic
 0x40000000 false Items/EldenRingReforged/SpiritAshes.txt ERR: Spirit Ashes
 0x40000000 false Items/EldenRingReforged/Cookbooks.txt ERR: Cookbooks
@@ -31,8 +32,9 @@
 0x40000000 false Items/Goods/KeyItems.txt Key Items
 0x40000000 false Items/Goods/CrystalTears.txt Crystal Tears
 0x40000000 false Items/Goods/Flasks.txt Flasks
-0x40000000 false Items/EldenRingReforged/SpiritAshesVanilla.txt Ashes (ERR IDs)
-//0x40000000 false Items/Goods/Ashes.txt Ashes (Vanilla IDs)
+0x40000000 false Items/EldenRingReforged/SpiritAshesVanilla.txt Spirit Ashes (ERR IDs)
+0x40000000 false Items/EldenRingReforged/SpiritAshesDLC.txt DLC Spirit Ashes (ERR IDs)
+//0x40000000 false Items/Goods/Ashes.txt Spirit Ashes (Vanilla IDs)
 0x40000000 false Items/Goods/NotesPaintings.txt Notes and Paintings
 0x40000000 false Items/Goods/Gestures.txt Gestures
 0x40000000 false Items/Goods/Cookbooks.txt Cookbooks
@@ -54,7 +56,7 @@
 0x40000000 false Items/DLC/DLCGoods/DLCCraftingMaterials.txt DLC Crafting Materials
 0x40000000 false Items/DLC/DLCGoods/DLCKeyItems.txt DLC Key Items
 0x40000000 false Items/DLC/DLCGoods/DLCCrystalTears.txt DLC Crystal Tears
-0x40000000 false Items/DLC/DLCGoods/DLCAshes.txt DLC Ashes
+//0x40000000 false Items/DLC/DLCGoods/DLCAshes.txt DLC Spirit Ashes (Vanilla IDs)
 0x40000000 false Items/DLC/DLCGoods/DLCNotesPaintings.txt DLC Notes and Paintings
 0x40000000 false Items/DLC/DLCGoods/DLCGestures.txt DLC Gestures
 0x40000000 false Items/DLC/DLCGoods/DLCCookbooks.txt DLC Cookbooks

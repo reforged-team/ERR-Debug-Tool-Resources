@@ -1,0 +1,220 @@
+370000 Curseblade Meera
+370002 Curseblade Meera +1
+370004 Curseblade Meera +2
+370006 Curseblade Meera +3
+370008 Curseblade Meera +4
+370010 Curseblade Meera +5
+370012 Curseblade Meera +6
+370014 Curseblade Meera +7
+370016 Curseblade Meera +8
+370018 Curseblade Meera +9
+370020 Curseblade Meera +10
+371000 Bloodfiend Hexer's Ashes
+371002 Bloodfiend Hexer's Ashes +1
+371004 Bloodfiend Hexer's Ashes +2
+371006 Bloodfiend Hexer's Ashes +3
+371008 Bloodfiend Hexer's Ashes +4
+371010 Bloodfiend Hexer's Ashes +5
+371012 Bloodfiend Hexer's Ashes +6
+371014 Bloodfiend Hexer's Ashes +7
+371016 Bloodfiend Hexer's Ashes +8
+371018 Bloodfiend Hexer's Ashes +9
+371020 Bloodfiend Hexer's Ashes +10
+372000 Gravebird Ashes
+372002 Gravebird Ashes +1
+372004 Gravebird Ashes +2
+372006 Gravebird Ashes +3
+372008 Gravebird Ashes +4
+372010 Gravebird Ashes +5
+372012 Gravebird Ashes +6
+372014 Gravebird Ashes +7
+372016 Gravebird Ashes +8
+372018 Gravebird Ashes +9
+372020 Gravebird Ashes +10
+373000 Fire Knight Hilde
+373002 Fire Knight Hilde +1
+373004 Fire Knight Hilde +2
+373006 Fire Knight Hilde +3
+373008 Fire Knight Hilde +4
+373010 Fire Knight Hilde +5
+373012 Fire Knight Hilde +6
+373014 Fire Knight Hilde +7
+373016 Fire Knight Hilde +8
+373018 Fire Knight Hilde +9
+373020 Fire Knight Hilde +10
+374000 Spider Scorpion Ashes
+374002 Spider Scorpion Ashes +1
+374004 Spider Scorpion Ashes +2
+374006 Spider Scorpion Ashes +3
+374008 Spider Scorpion Ashes +4
+374010 Spider Scorpion Ashes +5
+374012 Spider Scorpion Ashes +6
+374014 Spider Scorpion Ashes +7
+374016 Spider Scorpion Ashes +8
+374018 Spider Scorpion Ashes +9
+374020 Spider Scorpion Ashes +10
+375000 Inquisitor Ashes
+375002 Inquisitor Ashes +1
+375004 Inquisitor Ashes +2
+375006 Inquisitor Ashes +3
+375008 Inquisitor Ashes +4
+375010 Inquisitor Ashes +5
+375012 Inquisitor Ashes +6
+375014 Inquisitor Ashes +7
+375016 Inquisitor Ashes +8
+375018 Inquisitor Ashes +9
+375020 Inquisitor Ashes +10
+376000 Demi-Human Swordsman Yosh
+376002 Demi-Human Swordsman Yosh +1
+376004 Demi-Human Swordsman Yosh +2
+376006 Demi-Human Swordsman Yosh +3
+376008 Demi-Human Swordsman Yosh +4
+376010 Demi-Human Swordsman Yosh +5
+376012 Demi-Human Swordsman Yosh +6
+376014 Demi-Human Swordsman Yosh +7
+376016 Demi-Human Swordsman Yosh +8
+376018 Demi-Human Swordsman Yosh +9
+376020 Demi-Human Swordsman Yosh +10
+377000 Messmer Soldier Ashes
+377002 Messmer Soldier Ashes +1
+377004 Messmer Soldier Ashes +2
+377006 Messmer Soldier Ashes +3
+377008 Messmer Soldier Ashes +4
+377010 Messmer Soldier Ashes +5
+377012 Messmer Soldier Ashes +6
+377014 Messmer Soldier Ashes +7
+377016 Messmer Soldier Ashes +8
+377018 Messmer Soldier Ashes +9
+377020 Messmer Soldier Ashes +10
+378000 Black Knight Commander Andreas
+378002 Black Knight Commander Andreas +1
+378004 Black Knight Commander Andreas +2
+378006 Black Knight Commander Andreas +3
+378008 Black Knight Commander Andreas +4
+378010 Black Knight Commander Andreas +5
+378012 Black Knight Commander Andreas +6
+378014 Black Knight Commander Andreas +7
+378016 Black Knight Commander Andreas +8
+378018 Black Knight Commander Andreas +9
+378020 Black Knight Commander Andreas +10
+379000 Black Knight Captain Huw
+379002 Black Knight Captain Huw +1
+379004 Black Knight Captain Huw +2
+379006 Black Knight Captain Huw +3
+379008 Black Knight Captain Huw +4
+379010 Black Knight Captain Huw +5
+379012 Black Knight Captain Huw +6
+379014 Black Knight Captain Huw +7
+379016 Black Knight Captain Huw +8
+379018 Black Knight Captain Huw +9
+379020 Black Knight Captain Huw +10
+380000 Bigmouth Imp Ashes
+380002 Bigmouth Imp Ashes +1
+380004 Bigmouth Imp Ashes +2
+380006 Bigmouth Imp Ashes +3
+380008 Bigmouth Imp Ashes +4
+380010 Bigmouth Imp Ashes +5
+380012 Bigmouth Imp Ashes +6
+380014 Bigmouth Imp Ashes +7
+380016 Bigmouth Imp Ashes +8
+380018 Bigmouth Imp Ashes +9
+380020 Bigmouth Imp Ashes +10
+381000 Man-Fly Ashes
+381002 Man-Fly Ashes +1
+381004 Man-Fly Ashes +2
+381006 Man-Fly Ashes +3
+381008 Man-Fly Ashes +4
+381010 Man-Fly Ashes +5
+381012 Man-Fly Ashes +6
+381014 Man-Fly Ashes +7
+381016 Man-Fly Ashes +8
+381018 Man-Fly Ashes +9
+381020 Man-Fly Ashes +10
+382000 Taylew the Golem Smith
+382002 Taylew the Golem Smith +1
+382004 Taylew the Golem Smith +2
+382006 Taylew the Golem Smith +3
+382008 Taylew the Golem Smith +4
+382010 Taylew the Golem Smith +5
+382012 Taylew the Golem Smith +6
+382014 Taylew the Golem Smith +7
+382016 Taylew the Golem Smith +8
+382018 Taylew the Golem Smith +9
+382020 Taylew the Golem Smith +10
+383000 Divine Bird Warrior Ornis
+383002 Divine Bird Warrior Ornis +1
+383004 Divine Bird Warrior Ornis +2
+383006 Divine Bird Warrior Ornis +3
+383008 Divine Bird Warrior Ornis +4
+383010 Divine Bird Warrior Ornis +5
+383012 Divine Bird Warrior Ornis +6
+383014 Divine Bird Warrior Ornis +7
+383016 Divine Bird Warrior Ornis +8
+383018 Divine Bird Warrior Ornis +9
+383020 Divine Bird Warrior Ornis +10
+384000 Horned Warrior Ashes
+384002 Horned Warrior Ashes +1
+384004 Horned Warrior Ashes +2
+384006 Horned Warrior Ashes +3
+384008 Horned Warrior Ashes +4
+384010 Horned Warrior Ashes +5
+384012 Horned Warrior Ashes +6
+384014 Horned Warrior Ashes +7
+384016 Horned Warrior Ashes +8
+384018 Horned Warrior Ashes +9
+384020 Horned Warrior Ashes +10
+385000 Ancient Dragon Florissax
+385002 Ancient Dragon Florissax +1
+385004 Ancient Dragon Florissax +2
+385006 Ancient Dragon Florissax +3
+385008 Ancient Dragon Florissax +4
+385010 Ancient Dragon Florissax +5
+385012 Ancient Dragon Florissax +6
+385014 Ancient Dragon Florissax +7
+385016 Ancient Dragon Florissax +8
+385018 Ancient Dragon Florissax +9
+385020 Ancient Dragon Florissax +10
+387000 Fingercreeper Ashes
+387002 Fingercreeper Ashes +1
+387004 Fingercreeper Ashes +2
+387006 Fingercreeper Ashes +3
+387008 Fingercreeper Ashes +4
+387010 Fingercreeper Ashes +5
+387012 Fingercreeper Ashes +6
+387014 Fingercreeper Ashes +7
+387016 Fingercreeper Ashes +8
+387018 Fingercreeper Ashes +9
+387020 Fingercreeper Ashes +10
+388000 Fire Knight Queelign
+388002 Fire Knight Queelign +1
+388004 Fire Knight Queelign +2
+388006 Fire Knight Queelign +3
+388008 Fire Knight Queelign +4
+388010 Fire Knight Queelign +5
+388012 Fire Knight Queelign +6
+388014 Fire Knight Queelign +7
+388016 Fire Knight Queelign +8
+388018 Fire Knight Queelign +9
+388020 Fire Knight Queelign +10
+389000 Swordhand of Night Jolán
+389002 Swordhand of Night Jolán +1
+389004 Swordhand of Night Jolán +2
+389006 Swordhand of Night Jolán +3
+389008 Swordhand of Night Jolán +4
+389010 Swordhand of Night Jolán +5
+389012 Swordhand of Night Jolán +6
+389014 Swordhand of Night Jolán +7
+389016 Swordhand of Night Jolán +8
+389018 Swordhand of Night Jolán +9
+389020 Swordhand of Night Jolán +10
+390000 Jolán and Anna
+390002 Jolán and Anna +1
+390004 Jolán and Anna +2
+390006 Jolán and Anna +3
+390008 Jolán and Anna +4
+390010 Jolán and Anna +5
+390012 Jolán and Anna +6
+390014 Jolán and Anna +7
+390016 Jolán and Anna +8
+390018 Jolán and Anna +9
+390020 Jolán and Anna +10

@@ -1,0 +1,7 @@
+﻿1301900 Knifeprint Curio
+1302900 Poacher's Curio
+1303900 Physician's Curio
+1304900 Scadutear Curio
+1305900 Fanatic's Curio
+1306900 Gate Curio
+1307900 Curio of Ranah

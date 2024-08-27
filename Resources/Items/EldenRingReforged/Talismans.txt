@@ -2,3 +2,5 @@
 2240 Lunar Princess' Exultation
 2250 Execrable Serpent's Exultation
 6130 Thunderous Beast Charm
+6140 Heavenly Brew Talisman
+6150 Whirling Blades Charm

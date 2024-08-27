@@ -8,3 +8,4 @@
 441000 Silver Pumpkin Helm
 743000 Beryl Hood
 1011300 Snow Witch Skirt (Altered)
+7002000 Imp Head (Bigmouth)

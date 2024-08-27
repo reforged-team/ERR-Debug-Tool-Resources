@@ -23,4 +23,7 @@ Resources/Items/*
 !Resources/Items/Weapons
 Resources/Items/Weapons/*
 !Resources/Items/Weapons/Ammo.txt
+!Resources/Items/DLC
+Resources/Items/DLC/*
+!Resources/Items/DLC/DLCMagic.txt
 !Resources/Items/EldenRingReforged
