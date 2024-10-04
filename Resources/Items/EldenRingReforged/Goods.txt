@@ -24,4 +24,3 @@
 299999 Spirit-Severing Blade
 1000000 Codex of the All-Knowing
 1000010 Sign of the All-Knowing
-1200000 Debug Box

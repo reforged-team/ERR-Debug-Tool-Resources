@@ -20,6 +20,7 @@ Resources/*
 !Resources/Items
 Resources/Items/*
 !Resources/Items/Magic.txt
+!Resources/Items/Gems.txt
 !Resources/Items/Weapons
 Resources/Items/Weapons/*
 !Resources/Items/Weapons/Ammo.txt
