@@ -1,11 +1,17 @@
+4051 Distant Stars
+4240 Cerulean Sea
 4391 Glintblade Hail
 4401 Glintstone Snowdrift [Generator]
+4441 Flashfrost Cutter
 4481 Moonchill
 4530 Crystal Volley
 4711 Stone Sling [Generator]
 4722 Singularity
+4740 Electromagnetic Discharge
 4840 Volcanic Storm
 4850 Molten Armament
+4860 Unstable Fissure
+4870 Blasphemous Flame
 4911 Briars of Guilt
 4920 Briars of Penance
 4930 Briars of Resentment
@@ -14,6 +20,8 @@
 5050 Raving Rancor
 5060 Eclipsed Blade
 5200 Ancient Tracer
+5330 Guiding Macrocosm
+5340 Warding Microcosm
 6411 Projection of Gold
 6721 Golden Star [Generator]
 6790 Javelin of Gold

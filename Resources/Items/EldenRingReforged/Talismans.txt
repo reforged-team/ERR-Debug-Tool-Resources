@@ -4,3 +4,4 @@
 6130 Thunderous Beast Charm
 6140 Heavenly Brew Talisman
 6150 Whirling Blades Charm
+6170 Erdhewn Medallion

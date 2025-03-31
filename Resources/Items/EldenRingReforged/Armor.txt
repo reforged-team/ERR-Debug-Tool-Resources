@@ -2,10 +2,19 @@
 51100 Kaiden Armor (Altered)
 52100 Kaiden Tunic
 131000 Spellblade's Pointed Hat (Altered)
+205000 Banished Knight Helm (Maneless)
+205100 Banished Knight Armor (Castellan)
+206100 Banished Knight Armor (Mirrored)
+205200 Banished Knight Gauntlets (Altered)
+205300 Banished Knight Greaves (Altered)
 241300 Blue Silver Mail Skirt (Altered)
 321300 Sanguine Noble Waistcloth (Altered)
 361000 Fire Prelate Helm (Altered)
 441000 Silver Pumpkin Helm
 743000 Beryl Hood
+1011000 Snow Witch Hat (Altered)
 1011300 Snow Witch Skirt (Altered)
+5261100 Rellana's Armor (Altered)
+5262100 Rellana's Armor (Subtle)
+5263100 Rellana's Armor (Subtle, Altered)
 7002000 Imp Head (Bigmouth)
