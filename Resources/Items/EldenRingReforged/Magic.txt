@@ -25,6 +25,7 @@
 6411 Projection of Gold
 6721 Golden Star [Generator]
 6790 Javelin of Gold
+6791 Stakes of Gold
 6942 Bolt of Gransax
 6972 Frozen Dragonbolt
 6990 Ice Lightning Wisp
