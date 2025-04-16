@@ -5,3 +5,5 @@
 1305900 Fanatic's Curio
 1306900 Gate Curio
 1307900 Curio of Ranah
+1308900 Academy Curio
+1309900 Dragonscale Curio
