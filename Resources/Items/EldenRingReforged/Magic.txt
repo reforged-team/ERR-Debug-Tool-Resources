@@ -20,8 +20,10 @@
 5050 Raving Rancor
 5060 Eclipsed Blade
 5200 Ancient Tracer
+5210 Transmigration Call
 5330 Guiding Macrocosm
 5340 Warding Microcosm
+6340 Retch Gore
 6411 Projection of Gold
 6721 Golden Star [Generator]
 6790 Javelin of Gold
