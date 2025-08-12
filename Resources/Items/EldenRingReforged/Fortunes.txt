@@ -15,6 +15,7 @@
 900218 Fortune of the Houses
 900228 Fortune of the Spellsword
 900238 Fortune of the Godslayers
+900248 Fortune of the Adherent
 900258 Fortune of Haima
 900268 Fortune of the Crucible
 900278 Fortune of the Dynasts
@@ -25,3 +26,5 @@
 900328 Fortune of the Cunning
 900338 Fortune of the Bulwark
 900348 Fortune of the Reeds
+900368 Fortune of the Brave
+900398 Fortune of the Spiritcaller

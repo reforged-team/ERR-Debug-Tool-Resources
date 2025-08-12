@@ -7,3 +7,7 @@
 9404 Ancient Dragon Apostle's Cookbook [5]
 9424 Knowledge-Seeker's Cookbook [1]
 9451 Stable Master's Cookbook [1]
+2009346 Greater Potentate's Cookbook [15]
+2009347 Greater Potentate's Cookbook [16]
+2009349 Mad Craftsman's Cookbook [4]
+2009350 Grave Keeper's Cookbook [3]

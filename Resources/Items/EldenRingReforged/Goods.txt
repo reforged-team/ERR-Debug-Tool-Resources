@@ -4,6 +4,8 @@
 816 Erdbark Raisin
 1220 Revitalizing Cured Meat
 1350 Revitalizing White Cured Meat
+1380 Blighted Grease
+1390 Frenzyflame Grease
 1761 Weighty Stone
 1762 Sanctified Stone
 1770 Azula Throwing Chakram
@@ -24,3 +26,5 @@
 299999 Spirit-Severing Blade
 1000000 Codex of the All-Knowing
 1000010 Sign of the All-Knowing
+2000350 Hefty Holy Water Pot
+2000640 Hefty Sleep Pot
