@@ -1,3 +1,4 @@
+620 Rock Pot
 680 Purple Paint Pot
 690 Orange Paint Pot
 815 Stormhoof Raisin
@@ -13,6 +14,7 @@
 1780 Crystal Chakram
 1781 Putrid Crystal Chakram
 1990 Withered Twig
+3362 Lucent Baldachin's Reliquary
 3530 Galvanizing Elixir
 3540 Stardust Elixir
 3560 Concealing Aromatic

@@ -1,4 +1,10 @@
-﻿9175 About Supply Pledges
+﻿9133 About Shadowed Curios
+9143 About Ember Pieces
+9144 About Enkindled Ashes of War
+9145 About Lanterns and Lamp Oil
+9147 About Medals
+9149 About the Trial of Recollection
+9175 About Supply Pledges
 9176 About Torrent and Status Effects
 9177 About the Codex of the All-Knowing
 9178 Gilded Cave of Knowledge: Stance-Breaking

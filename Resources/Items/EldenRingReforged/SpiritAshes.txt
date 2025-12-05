@@ -64,3 +64,25 @@
 369016 Glintstone Miner Ashes +8
 369018 Glintstone Miner Ashes +9
 369020 Glintstone Miner Ashes +10
+386000 Ringmaster Ophidion
+386002 Ringmaster Ophidion +1
+386004 Ringmaster Ophidion +2
+386006 Ringmaster Ophidion +3
+386008 Ringmaster Ophidion +4
+386010 Ringmaster Ophidion +5
+386012 Ringmaster Ophidion +6
+386014 Ringmaster Ophidion +7
+386016 Ringmaster Ophidion +8
+386018 Ringmaster Ophidion +9
+386020 Ringmaster Ophidion +10
+391000 Grand Inquisitor Eli
+391002 Grand Inquisitor Eli +1
+391004 Grand Inquisitor Eli +2
+391006 Grand Inquisitor Eli +3
+391008 Grand Inquisitor Eli +4
+391010 Grand Inquisitor Eli +5
+391012 Grand Inquisitor Eli +6
+391014 Grand Inquisitor Eli +7
+391016 Grand Inquisitor Eli +8
+391018 Grand Inquisitor Eli +9
+391020 Grand Inquisitor Eli +10

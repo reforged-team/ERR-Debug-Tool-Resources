@@ -27,4 +27,8 @@ Resources/Items/Weapons/*
 !Resources/Items/DLC
 Resources/Items/DLC/*
 !Resources/Items/DLC/DLCMagic.txt
+!Resources/Items/Goods
+Resources/Items/Goods/*
+!Resources/Items/Goods/Consumables.txt
+!Resources/Items/Goods/UpgradeMaterials.txt
 !Resources/Items/EldenRingReforged

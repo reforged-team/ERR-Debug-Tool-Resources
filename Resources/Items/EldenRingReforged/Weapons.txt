@@ -3,19 +3,26 @@
 2030000 Sun Realm Sword
 2100000 Puppet's Short Sword
 2120000 Broken Straight Sword
+2130000 Flamelost War Sword
+2270000 Gladius of Ophidion
+4090000 Flamelost Greatblades
 7130000 Red Wolf's Fang
 7160000 Puppet's Scimitar
 8090000 Fury of Azash
 8110000 Makar's Ceremonial Cleaver
+8120000 Putrescent Bonesmasher
 10100000 Goldvine Branchstaff
 12030000 Pumpkin Head Sledgehammer
 14070000 Vulgar Militia Chain Sickle
 16100000 Disciple's Rotten Branch
 16170000 Grave Spear
 16180000 Lordsworn's Spear
+16190000 Flamelost Spear
 18120000 Puppet's Pig Sticker
 18170000 Starcaller Spire
 21050000 Nox Flowing Fist
 21140000 Fellthorn Clutches
 22040000 Crude Iron Claws
 23090000 Fellthorn Stake
+31200000 Mad Sun Shield
+33310000 Twinbird Caduceus

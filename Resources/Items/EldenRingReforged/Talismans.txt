@@ -2,6 +2,7 @@
 2240 Lunar Princess' Exultation
 2250 Execrable Serpent's Exultation
 2260 Dancer's Castanets
+3110 Blasphemous Crest
 5080 Storied Glintstone Amulet
 6130 Thunderous Beast Charm
 6140 Heavenly Brew Talisman

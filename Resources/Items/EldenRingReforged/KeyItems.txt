@@ -1,4 +1,12 @@
-﻿8969 Whetblade Fragment
+﻿8021 Tortured Rancorflame
+8022 Forsaken Rancorflame
+8023 Ancient Rancorflame
+8025 Favor of the Devoured
+8591 Spellsmith's Etching Tool
+8852 Ranni's Scroll
+8854 Gelmirian Scroll
+8867 Three Fingers' Scrawls
+8969 Whetblade Fragment
 8981 Fated Whetblade
 88921 Nomadic Merchant's Supply Pledge [1]
 88922 Nomadic Merchant's Supply Pledge [2]
