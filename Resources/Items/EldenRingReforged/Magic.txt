@@ -1,10 +1,13 @@
 4051 Distant Stars
 4240 Cerulean Sea
+4350 Carian Verge
 4391 Glintblade Hail
 4401 Glintstone Snowdrift [Generator]
 4441 Flashfrost Cutter
 4481 Moonchill
 4530 Crystal Volley
+4680 False Heavens
+4691 False Constellation
 4711 Stone Sling [Generator]
 4722 Singularity
 4740 Electromagnetic Discharge
@@ -46,4 +49,7 @@
 7340 Frenzyflame Armament
 7360 Frenzyspore Mist
 7370 Contorting Frenzy
+7400 Mark of the Beast
+7410 Glyph of Suppression
+7420 Ordered Disarray
 7600 Grasp of Eochaid

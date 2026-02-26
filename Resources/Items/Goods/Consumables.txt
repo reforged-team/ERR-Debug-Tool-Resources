@@ -71,15 +71,6 @@
 1470 Freezing Grease
 1480 Dragonwound Grease
 1490 Rot Grease
-1500 Drawstring Fire Grease
-1510 Drawstring Lightning Grease
-1520 Drawstring Magic Grease
-1530 Drawstring Holy Grease
-1540 Drawstring Blood Grease
-1550 Drawstring Soporific Grease
-1560 Drawstring Poison Grease
-1570 Drawstring Freezing Grease
-1590 Drawstring Rot Grease
 1690 Shield Grease
 1700 Throwing Dagger
 1710 Bone Dart

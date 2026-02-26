@@ -1,18 +1,28 @@
 1120000 Iron Spike
 1170000 Nightmaiden's Edge
+1210000 Gracebound Dagger
 2030000 Sun Realm Sword
 2100000 Puppet's Short Sword
 2120000 Broken Straight Sword
 2130000 Flamelost War Sword
 2270000 Gladius of Ophidion
+3240000 Gracebound Greatsword
 4090000 Flamelost Greatblades
+4120000 Ambassador's Greatsword
+5070000 Gracebound Cane Sword
 7130000 Red Wolf's Fang
 7160000 Puppet's Scimitar
 8090000 Fury of Azash
 8110000 Makar's Ceremonial Cleaver
 8120000 Putrescent Bonesmasher
+9090000 Gracebound Katana
+9100000 Suncatcher
 10100000 Goldvine Branchstaff
+10110000 Dawnglow Greatbolt
+11160000 Ambassador's Cudgel
+11180000 Gracebound Mace
 12030000 Pumpkin Head Sledgehammer
+12270000 Scepter of Serenity
 14070000 Vulgar Militia Chain Sickle
 16100000 Disciple's Rotten Branch
 16170000 Grave Spear
@@ -20,9 +30,19 @@
 16190000 Flamelost Spear
 18120000 Puppet's Pig Sticker
 18170000 Starcaller Spire
+18180000 Gracebound Halberd
 21050000 Nox Flowing Fist
 21140000 Fellthorn Clutches
 22040000 Crude Iron Claws
+22050000 Gracebound Claws
 23090000 Fellthorn Stake
+23160000 Gracebound Greataxe
+30210000 Gracebound Round Shield
 31200000 Mad Sun Shield
+32310000 Ambassador's Greatshield
+32320000 Gracebound Greatshield
 33310000 Twinbird Caduceus
+33330000 Gracebound Staff
+41080000 Gracebound Longbow
+64530000 Crystal Ringblade
+64540000 Rotten Crystal Ringblade
