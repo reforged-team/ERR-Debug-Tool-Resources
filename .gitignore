@@ -26,6 +26,9 @@ Resources/Items/Weapons/*
 !Resources/Items/Weapons/Ammo.txt
 !Resources/Items/DLC
 Resources/Items/DLC/*
+!Resources/Items/DLC/DLCGoods
+Resources/Items/DLC/DLCGoods/*
+!Resources/Items/DLC/DLCGoods/DLCConsumables.txt
 !Resources/Items/DLC/DLCMagic.txt
 !Resources/Items/Goods
 Resources/Items/Goods/*
