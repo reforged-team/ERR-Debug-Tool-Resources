@@ -43,6 +43,7 @@
 32320000 Gracebound Greatshield
 33310000 Twinbird Caduceus
 33330000 Gracebound Staff
+34100000 Mohgwyn's Sacred Seal
 41080000 Gracebound Longbow
 64530000 Crystal Ringblade
 64540000 Rotten Crystal Ringblade
